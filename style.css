@@ -1,0 +1,17 @@
+#main {
+  background-color: hsla(195, 100%, 90%, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h3 {
+  font-size: 60px;
+}
+
+.para {
+  font-size: 18px;
+}
+
+.bigger {
+  font-size: 22px;
+}
