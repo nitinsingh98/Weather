@@ -2,21 +2,23 @@
 
 A lightweight, front-end weather app built with pure HTML, CSS, and JavaScript.
 
-## 🚀 How to Run
+## 🚀 Getting Started
 
-1. **Clone this repository:**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/nitinsingh98/weatherApp.git
-<<<<<<< HEAD
    ```
 
-2. **Add your API key:**  
-   Open `main.js` and replace the placeholder with your actual weather API key:
+2. **Configure your API key**  
+   Open `main.js` and replace the placeholder with your weather API key:
    ```js
-   const apiKey = "YOUR_API_KEY_HERE"; // ← Add your own key
+   const apiKey = "YOUR_API_KEY_HERE"; // ← Insert your API key
    ```
-   > You can sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api) or any other weather API provider.
+   > Get a free API key from [OpenWeatherMap](https://openweathermap.org/api) or another weather API provider.
 
-3. **Run the app:**  
-   Open `index.html` in your browser.
+3. **Launch the app**  
+   Open `index.html` in your web browser.
 
+---
+
+Enjoy checking the weather with your new app!
