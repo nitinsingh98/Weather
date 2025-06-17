@@ -21,7 +21,7 @@ const icon_data = [
 
 async function check_Weather(e) {
   e.preventDefault();
-  const apiKey = "";
+  const apiKey = "YOUR_API_KEY_HERE"; // ← Add your own key
   const city = e.target.input.value;
   const selected = document.querySelector(
     'input[name="inlineRadio"]:checked'
