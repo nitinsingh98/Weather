@@ -6,7 +6,7 @@ A lightweight, front-end weather app built with pure HTML, CSS, and JavaScript.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nitinsingh98/weatherApp.git
+   git clone https://github.com/nitinsingh98/Weather.git
    ```
 
 2. **Configure your API key**  
